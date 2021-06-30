@@ -2,10 +2,10 @@
 ## Ransomeware_Detect
 ==============================
 
-#Ransomware_Detect is tool that do static analysis and basic dynamic analysis to find ransomware malware
+# Ransomware_Detect is tool that do static analysis and basic dynamic analysis to find ransomware malware
 
 
-#Usage:
+# Usage:
 python scan.py -h
 
 python scan.py -f wannay.exe -S
